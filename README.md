@@ -1,4 +1,4 @@
-# qa-devops-portfolio# QA & DevOps Portfolio: Automated Test Pipeline
+## QA & DevOps Portfolio: Automated Test Pipeline
 
 This repository demonstrates a **full QA automation and DevOps workflow** using Python, Playwright, Docker, Jenkins, and GitHub Actions. It is designed as a portfolio project to showcase end-to-end automation and DevOps practices.
 
