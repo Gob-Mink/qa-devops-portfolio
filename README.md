@@ -28,4 +28,4 @@ The project includes:
 
 ---
 
-## :open_file_folder: Repo Structure
+
