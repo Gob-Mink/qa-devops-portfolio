@@ -8,7 +8,7 @@ This repository demonstrates a **full QA automation and DevOps workflow** using 
 
 The project includes:
 
-- **Automated tests** for a sample web app (e.g., [SauceDemo](https://www.saucedemo.com/)) using **Python Playwright**.
+- **Automated tests** for a sample web app running headless in a browsers background using **Python Playwright**.
 - **Dockerized environment** ensuring consistent test execution across machines.
 - **CI/CD pipelines** using:
   - **GitHub Actions** — automatically runs tests on push and pull request.
