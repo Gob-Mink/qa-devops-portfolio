@@ -52,8 +52,8 @@ docker build -t qa-portfolio .
 
 docker run --rm qa-portfolio
 ```
-- Runs your tests inside a Docker environment.
-- Test results will appear directly in your terminal.
+- Runs tests inside a Docker environment.
+- Test results will appear directly in the terminal.
 
 ---
 
@@ -74,7 +74,7 @@ Artifacts and logs are accessible in the [Actions tab](https://github.com/Gob-Mi
 ---
 
 #### Jenkins Pipeline
-Jenkins automates Docker builds and test execution using your Jenkinsfile.
+Jenkins automates Docker builds and test execution using a Jenkinsfile.
 
 Pipeline steps:
 
