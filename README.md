@@ -4,17 +4,17 @@ This repository demonstrates a **full QA automation and DevOps workflow** using 
 
 ---
 ## Table of Contents
-- [Project Overview](#small_blue_diamond-project-overview)
-- [Tech Stack](#hammer_and_wrench-tech-stack)
-- [Getting Started / Running Locally](#rocket-getting-started--running-locally)
+- [Project Overview](#project-overview)
+- [Tech Stack](#tech-stack)
+- [Getting Started / Running Locally](#getting-started--running-locally)
 - [CI/CD Pipelines](#cicd-pipelines)
   - [GitHub Actions CI/CD](#github-actions-cicd)
   - [Jenkins Pipeline](#jenkins-pipeline)
   - [How Artifacts & Logs Are Handled](#how-artifacts--logs-are-handled)
-- [Workflow Diagram](#gear-workflow-diagram)
+- [Workflow Diagram](#workflow-diagram)
 
 ---
-## :small_blue_diamond: Project Overview
+## Project Overview
 
 The project includes:
 
@@ -27,7 +27,7 @@ The project includes:
 
 ---
 
-## :hammer_and_wrench: Tech Stack
+## Tech Stack
 
 - Python 3.11  
 - Playwright + pytest  
@@ -38,7 +38,7 @@ The project includes:
 
 ---
 
-## :rocket: Getting Started / Running Locally
+## Getting Started / Running Locally
 
 #### Local / Docker Execution
 Clone the repository and build the Docker image:
@@ -95,7 +95,7 @@ All test outputs, logs, and screenshots are captured and stored for review:
 This ensures centralized access, easy debugging, and reproducible results across local, CI, and Jenkins environments.
 
 ---
-## :gear: Workflow Diagram
+## Workflow Diagram
 
 ```
 GitHub Repository
